@@ -1,0 +1,27 @@
+[
+  {
+    "question": "An entrepreneur who focuses on their interests, talents, and skills when choosing business opportunities is following the principle of:", 
+    "correctAnswer": "Reinforcement of Entrepreneurial Interests", 
+    "answers": ["Relevance", "Resonance", "Revenues", "Reinforcement of Entrepreneurial Interests"]
+  },
+  {
+    "question": "Which of the following is NOT a type of innovation?", 
+    "correctAnswer": "Sequential Innovation", 
+    "answers": ["Process Innovation", "Product or Service Innovation", "Disruptive Innovation", "Sequential Innovation"]
+  },
+  {
+    "question": "The process of identifying and recognizing external factors that may impact a business is known as:", 
+    "correctAnswer": "Opportunity Seeking", 
+    "answers": ["Opportunity Screening", "Opportunity Seizing", "Opportunity Seeking", "Opportunity Analysis"]
+  },
+  {
+    "question": "Which of the following is a tool used to analyze external forces that can impact a business?", 
+    "correctAnswer": "PESTEL Analysis", 
+    "answers": ["SWOT Analysis", "Competitor Analysis", "PESTEL Analysis", "Market Analysis"]
+  },
+  {
+    "question": "The internal factors within an organization that give it a competitive advantage are referred to as:", 
+    "correctAnswer": "Strengths", 
+    "answers": ["Weaknesses", "Opportunities", "Threats", "Strengths"]
+  }
+]

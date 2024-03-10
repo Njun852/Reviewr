@@ -1,0 +1,33 @@
+.question {
+  width: 800px;
+  border-bottom: 1px solid;
+  padding-bottom: 10px;
+}
+.question h1 {
+  text-align: center;
+  margin-bottom: 14px;
+}
+.answers {
+  gap: 12px;
+  flex-wrap: wrap;
+}
+.answers button {
+  flex-grow: 1;
+  height: 40px;
+  border: none;
+  border-radius: 10px;
+  padding: 4px;
+  cursor: pointer;
+  background: coral;
+}
+.answers button:hover,
+.selected {
+  background: cornflowerblue !important;
+  color: white;
+}
+.wrong {
+  background: palevioletred !important;
+}
+.correct {
+  background: greenyellow !important;
+}

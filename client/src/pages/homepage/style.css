@@ -1,0 +1,12 @@
+.home-page {
+  gap: 4px;
+}
+.home-page button {
+  background: cornflowerblue;
+  border: none;
+  color: white;
+  margin-top: 14px;
+  font-size: 1.3rem;
+  cursor: pointer;
+  border-radius: 4px;
+}
